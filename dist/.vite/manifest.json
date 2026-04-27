@@ -1,0 +1,23 @@
+{
+  "index.html": {
+    "file": "assets/index--4WRaQYj.js",
+    "name": "index",
+    "src": "index.html",
+    "isEntry": true,
+    "css": [
+      "assets/index-CIGW-MKW.css"
+    ],
+    "assets": [
+      "assets/logo-D5itBAOV.png",
+      "assets/merapind-saeJywrC.jpg"
+    ]
+  },
+  "src/assets/logo.png": {
+    "file": "assets/logo-D5itBAOV.png",
+    "src": "src/assets/logo.png"
+  },
+  "src/assets/merapind.jpg": {
+    "file": "assets/merapind-saeJywrC.jpg",
+    "src": "src/assets/merapind.jpg"
+  }
+}

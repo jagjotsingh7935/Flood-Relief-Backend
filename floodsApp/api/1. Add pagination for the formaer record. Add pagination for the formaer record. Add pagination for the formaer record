@@ -1,0 +1,21 @@
+1.  Add pagination for the formaer records of this route
+    ""
+    http://localhost:5173/flooddashboard/map
+    ""
+    with max 100 rows per page option
+    and for pagination , can also type the page number to jump to that particular page
+
+    Add Search on the top of >>Farmer Data (n records found) , using this api"show/person/on/user/page/with/filters/" 
+
+    In the table instaed of showing 'Verification' show the amount of 'estimatedCropLoss' and also add a range for 'estimatedCropLoss' like this 
+    ?estimatedCropLoss=1000-2000
+
+    house_status dropdown - with three choices (Partially Damaged
+No Damage
+Fully Damaged
+)
+
+
+    also  show father name on table 
+
+2.  Add pagination in responses page 
